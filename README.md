@@ -18,10 +18,15 @@ Rating distribution analysis
 Heatmap for categorical relationships
 
 📈 Visualizations Created
+ 
  → Bar Charts
+ 
  → Pie Charts
+ 
  → Line Graphs
+ 
  → Count Plots
+ 
  → Heatmap
 
 🚀 Future Improvements
