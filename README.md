@@ -18,17 +18,16 @@ Rating distribution analysis
 Heatmap for categorical relationships
 
 📈 Visualizations Created
-Bar Charts
-Pie Charts
-Line Graphs
-Count Plots
-Heatmap
+ → Bar Charts
+ → Pie Charts
+ → Line Graphs
+ → Count Plots
+ → Heatmap
 
 🚀 Future Improvements
 Build a Recommendation System
 Create an Interactive Dashboard (Streamlit / Power BI)
 Apply Machine Learning models
-Perform Sentiment Analysis on descriptions
 
 💡 Conclusion
 
