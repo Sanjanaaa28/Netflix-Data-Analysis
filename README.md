@@ -10,12 +10,18 @@ Through bar charts, pie charts, line graphs, and heatmaps, the analysis uncovers
 Pandas, NumPy, Matplotlib, Seaborn
 
 📊 Key Analysis Performed
-   Movies vs TV Shows distribution
-Content production by country
-Year-wise content release trend
-Most popular genres
-Rating distribution analysis
-Heatmap for categorical relationships
+
+→  Movies vs TV Shows distribution
+
+→  Content production by country
+
+→  Year-wise content release trend
+
+→  Most popular genres
+
+→  Rating distribution analysis
+
+→  Heatmap for categorical relationships
 
 📈 Visualizations Created
  
@@ -30,9 +36,13 @@ Heatmap for categorical relationships
  → Heatmap
 
 🚀 Future Improvements
-Build a Recommendation System
-Create an Interactive Dashboard (Streamlit / Power BI)
-Apply Machine Learning models
+
+→  Build a Recommendation System
+
+→  Create an Interactive Dashboard (Streamlit / Power BI)
+
+→  Apply Machine Learning models
+
 
 💡 Conclusion
 
