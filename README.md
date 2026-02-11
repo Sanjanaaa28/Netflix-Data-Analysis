@@ -10,7 +10,7 @@ Through bar charts, pie charts, line graphs, and heatmaps, the analysis uncovers
 Pandas, NumPy, Matplotlib, Seaborn
 
 📊 Key Analysis Performed
-Movies vs TV Shows distribution
+   Movies vs TV Shows distribution
 Content production by country
 Year-wise content release trend
 Most popular genres
