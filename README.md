@@ -1,15 +1,15 @@
 # Netflix-Data-Analysis
-##📌 Project Overview
+#📌 Project Overview
 
 This project transforms raw Netflix data into compelling visual stories through structured Exploratory Data Analysis (EDA). It explores content distribution, genre trends, geographic production patterns, and audience segmentation using insightful data visualizations.
 
 Through bar charts, pie charts, line graphs, and heatmaps, the analysis uncovers meaningful patterns within Netflix’s global content library, demonstrating how data-driven insights can support strategic decision-making in the streaming industry. 
 
-##🛠 Libraries Used
+# 🛠 Libraries Used
 
 Pandas, NumPy, Matplotlib, Seaborn
 
-##📊 Key Analysis Performed
+# 📊 Key Analysis Performed
 
 →  Movies vs TV Shows distribution
 
@@ -23,7 +23,7 @@ Pandas, NumPy, Matplotlib, Seaborn
 
 →  Heatmap for categorical relationships
 
-##📈 Visualizations Created
+# 📈 Visualizations Created
  
  → Bar Charts
  
@@ -35,7 +35,7 @@ Pandas, NumPy, Matplotlib, Seaborn
  
  → Heatmap
 
-##🚀 Future Improvements
+# 🚀 Future Improvements
 
 →  Build a Recommendation System
 
@@ -44,7 +44,7 @@ Pandas, NumPy, Matplotlib, Seaborn
 →  Apply Machine Learning models
 
 
-##💡 Conclusion
+#💡 Conclusion
 
 The analysis provides valuable insights into Netflix’s content trends, growth patterns, and audience targeting strategies. This project demonstrates strong skills in data cleaning, visualization, and exploratory analysis using Python.
 
