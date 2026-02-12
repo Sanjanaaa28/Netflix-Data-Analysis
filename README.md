@@ -1,5 +1,5 @@
 # Netflix-Data-Analysis
-#📌 Project Overview
+# **📌 Project Overview**
 
 This project transforms raw Netflix data into compelling visual stories through structured Exploratory Data Analysis (EDA). It explores content distribution, genre trends, geographic production patterns, and audience segmentation using insightful data visualizations.
 
@@ -44,7 +44,7 @@ Pandas, NumPy, Matplotlib, Seaborn
 →  Apply Machine Learning models
 
 
-#💡 Conclusion
+# **💡 Conclusion**
 
 The analysis provides valuable insights into Netflix’s content trends, growth patterns, and audience targeting strategies. This project demonstrates strong skills in data cleaning, visualization, and exploratory analysis using Python.
 
